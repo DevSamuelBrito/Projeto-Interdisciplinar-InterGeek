@@ -23,5 +23,5 @@
 
 <h2>Considerações Finais</h2>
 <h5>
-  Este projeto foi feito como parte FRONT-END de uma aplicação web utilizando o Dot.NET com o framework ASP.NET, está é apenas o FRONT-END o site não funciona em si, não temos armazenados ou vendemos qualquer um dos itens. O site infelizmente não é responsivo, pois foi a minha primeira página criada e feita exclusivamente para o interdiciplinar então não pretendo continuá-lo ou atualizar futuramente. Obrigado pela compreesensão qualquer duvida pode entrar em contanto comigo por este perfil.
+  Este projeto foi feito como parte FRONT-END de uma aplicação web utilizando o Dot.NET com o framework ASP.NET, está é apenas o FRONT-END o site não funciona em si, não temos armazenados ou vendemos qualquer um dos itens. O site infelizmente não é responsivo, pois foi a minha primeira página criada e feita exclusivamente para o interdiciplinar então não pretendo continuá-lo ou atualizar futuramente, eu também removi as imagens dos produtos por questão de direito autoral. Obrigado pela compreesensão qualquer duvida pode entrar em contanto comigo por este perfil.
 </h5>
